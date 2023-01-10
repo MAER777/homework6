@@ -86,7 +86,7 @@ public class Main {
         for (int mount1 = 0; mount1 < 12; mount1++) {
             moneyInvest1 = moneyInvest1 / 100 + moneyInvest1;
             moneyInvest1 = moneyInvest1 + money1;
-            System.out.println("Месяц " + mount1 + ", сумма накоплений равна " + moneyInvest1 + " рублей.");
+            System.out.println("Месяц " + mount1 + ", сумма накоплений равна  " + moneyInvest1 + " рублей.");
         }
     }
     public static void task10() {
